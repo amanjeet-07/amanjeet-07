@@ -1,4 +1,4 @@
-<p style="text-align:center">
+<p style="text-align: center">
   <a href="https://github.com/antonkomarev/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Amanjeet-07&color=blueviolet">
 </a>
@@ -27,7 +27,7 @@
 ## 🚀 About Me
 
 * 💼 **Product Manager** · Ex-**Software Engineer**
-* 🎓 **PGDM (2025–27)** · B.Tech in Electrical Engineering, **NIT Rourkela**
+* 🎓 **PGDM (2025–27), MDI Gurgaon** · B.Tech in Electrical Engineering (2019–23), **NIT Rourkela**
 * 😄 I've worked on **Machine & Deep Learning**
 * 🔭 I'm currently working on **Website Development** & **GenAI-powered apps**
 * 🌱 I'm currently learning **DSA & Competitive Programming**
@@ -89,15 +89,6 @@
   🤖 <b>Myra — AI Chatbot</b> → <a href="https://myra-chatbot-seven.vercel.app/">Live Demo</a> · <a href="https://github.com/Amanjeet-07/myra-chatbot">Code</a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
   🌐 <b>3D Portfolio Website</b> → <a href="https://amanjeet-07.github.io/3d-portfolio-website/">Live Demo</a> · <a href="https://github.com/Amanjeet-07/3d-portfolio-website">Code</a>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Amanjeet-07&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanjeet-07&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
 <div align="center">

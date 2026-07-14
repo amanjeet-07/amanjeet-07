@@ -57,8 +57,11 @@
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
-  <img src="https://img.shields.io/badge/Whisper-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Whisper"/>
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/>
+  <img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity"/>
+  <img src="https://img.shields.io/badge/Google%20AI%20Studio-1A73E8?style=for-the-badge&logo=googleaistudio&logoColor=white" alt="Google AI Studio"/>
+  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini"/>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude"/>
 </p>
 
 **Tools & Platforms**
@@ -77,17 +80,9 @@
 ## ✨ Featured Projects
 
 <p align="center">
-  <a href="https://github.com/Amanjeet-07/myra-chatbot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amanjeet-07&repo=myra-chatbot&theme=tokyonight&hide_border=true" alt="Myra Chatbot"/>
-  </a>
-  <a href="https://github.com/Amanjeet-07/3d-portfolio-website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amanjeet-07&repo=3d-portfolio-website&theme=tokyonight&hide_border=true" alt="3D Portfolio Website"/>
-  </a>
-</p>
-
-<p align="center">
   🤖 <b>Myra — AI Chatbot</b> → <a href="https://myra-chatbot-seven.vercel.app/">Live Demo</a> · <a href="https://github.com/Amanjeet-07/myra-chatbot">Code</a>
-  &nbsp;&nbsp;|&nbsp;&nbsp;
+</p>
+<p align="center">
   🌐 <b>3D Portfolio Website</b> → <a href="https://amanjeet-07.github.io/3d-portfolio-website/">Live Demo</a> · <a href="https://github.com/Amanjeet-07/3d-portfolio-website">Code</a>
 </p>
 
